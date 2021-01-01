@@ -1,1 +1,2 @@
-# Create 10 different Landing Pages
+1. Git is confusing definetly but it is very usefull (so learn git and keep practicing)
+2. Create 10 different Landing Pages (no responsiveness for now just raw desktop size pages)
