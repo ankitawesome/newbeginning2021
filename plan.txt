@@ -8,6 +8,7 @@
 
 5. i just made a push to my repo and i am confuesd between master and main let me check again (it's confusing but i am enjoying)
 
+(main branch)
 
 6. how to clone (i git it)
 
